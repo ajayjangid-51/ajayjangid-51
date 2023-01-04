@@ -1,5 +1,5 @@
 ### Hi there 👋
-:tshirt is my favourite
+:tshirt: is my favourite
 
 
 **ajayjangid-51/ajayjangid-51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
