@@ -1,17 +1,13 @@
-### Hi there 👋
-:tshirt: is my favourite
+### Hi there :pray:, I'm **ajayKumar**
 
+- 🔭 I Somethimes works on my Dream Projects Barbero(The Barber Solution) and Skybus App.
+- 🌱 I’m currently learning Dynamic Progrmamming and Graphs Algorithms
+- 👯 I’m looking to collaborate on my Dream Project Barbero and Skybus
+- 🤔 I’m looking for help with good in Algorithmic ProblemSolving
+- 💬 Ask me about DSA and WebDev
+- 📫 Reach me via email:ajayjangid511@gmail.com
+- 😄 Pronouns: ajay , **techie** 
 
-**ajayjangid-51/ajayjangid-51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![JS Mastery Propro](https://ibb.co/NNgpWPR/GitHub.png)](https://www.jsmastery.pro)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
