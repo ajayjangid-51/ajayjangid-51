@@ -8,6 +8,4 @@
 - 📫 Reach me via email:ajayjangid511@gmail.com
 - 😄 Pronouns: ajay , **techie** 
 
-[![JS Mastery Propro](https://ibb.co/NNgpWPR/GitHub.png)](https://www.jsmastery.pro)
-
 
